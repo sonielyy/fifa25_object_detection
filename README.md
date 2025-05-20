@@ -68,6 +68,8 @@ Kullanmakta özgürsünüz ancak **yazar bilgilerini belirtmeniz ve lisans metni
 
 ## Demo
 
+![image](https://github.com/user-attachments/assets/239125b0-88dd-41e3-b78d-33844fd28a93)
+
 ![image](https://github.com/user-attachments/assets/d214a583-5fe1-46a3-907d-1d0d1666731b)
 
 ![image](https://github.com/user-attachments/assets/07c9b2d3-de94-4921-9cf2-73d03e339c24)
